@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Alta_QA_Ardhi.iml" filepath="$PROJECT_DIR$/Alta_QA_Ardhi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic Programming/Basic Programming.iml" filepath="$PROJECT_DIR$/Basic Programming/Basic Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object Oriented Programming/Object Oriented Programming.iml" filepath="$PROJECT_DIR$/Object Oriented Programming/Object Oriented Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object Oriented Programming/Problem 1/Problem 1.iml" filepath="$PROJECT_DIR$/Object Oriented Programming/Problem 1/Problem 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object Oriented Programming/Problem 2/Problem 2.iml" filepath="$PROJECT_DIR$/Object Oriented Programming/Problem 2/Problem 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object Oriented Programming/Problem 3/Problem 3.iml" filepath="$PROJECT_DIR$/Object Oriented Programming/Problem 3/Problem 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object Oriented Programming/Problem 4/Problem 4.iml" filepath="$PROJECT_DIR$/Object Oriented Programming/Problem 4/Problem 4.iml" />
+    </modules>
+  </component>
+</project>
